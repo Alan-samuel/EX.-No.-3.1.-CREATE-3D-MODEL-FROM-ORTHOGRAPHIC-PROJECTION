@@ -1,5 +1,7 @@
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+## Name: Alan Samuel Vedanayagam
+## Reg. no: 212223040012
+## DATE:8-10-25
 
 ## AIM:
 To create a 3D model from given orthographic projection.
@@ -41,6 +43,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+<img width="1017" height="717" alt="image" src="https://github.com/user-attachments/assets/833a50b2-338e-45fc-8748-87bd24aa91bf" />
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
